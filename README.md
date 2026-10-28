@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ShipRush is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://shiprush.com/
+ShipRush provides multi‑carrier shipping software for growing ecommerce businesses, offering features such as rate shopping, automation, white‑label branding, and integrations with major platforms like Shopify, Amazon, eBay, and Netsuite. The solution helps merchants ship faster, reduce costs, and streamline order fulfillment across multiple carriers.
+
+**Areas:** Shipping · Ecommerce · Multi-Carrier · SaaS · API · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://shiprush.com/)
+- [Documentation](https://docs.shiprush.com/)
+- [Getting started](https://docs.shiprush.com/en/introduction-to-descartes-shiprush-web/the-basics/getting-started-links)
+- [Pricing](https://shiprush.com/pricing/)
+- [Sign up](https://my.shiprush.com/SignUp/SignUp)
+- [Blog](https://shiprush.com/blog/)
+- [Privacy policy](http://my.shiprush.com/pageblobs/PrivacyPolicy)
+- [Status](https://status.shiprush.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/shiprush/](https://apis.io/providers/shiprush/).
